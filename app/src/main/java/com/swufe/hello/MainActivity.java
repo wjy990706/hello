@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(MainActivity.this,"换算成功！",Toast.LENGTH_SHORT).show();
         text1.setText(String.valueOf(temperature2) + "华氏度");
-// useless massage
+// 无用的注释
     }
 
 }
